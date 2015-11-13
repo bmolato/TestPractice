@@ -25,6 +25,9 @@ $RECYCLE.BIN/
 # =========================
 
 .DS_Store
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
 .AppleDouble
 .LSOverride
 
